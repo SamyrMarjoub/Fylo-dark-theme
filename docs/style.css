@@ -381,7 +381,7 @@ footer{
     
 }
 .iconlocaliz{
-    list-style-image: url(/fylo-dark-theme-landing-page-master/fylo-dark-theme-landing-page-master/images/icon-location.svg);
+    list-style-image: url(./images/icon-location.svg);
     color: white;
     margin-top: 30px;
     padding-left: 10px;
@@ -412,10 +412,10 @@ text-decoration: none;
  }
 
 .icontel{
-    list-style-image: url('/fylo-dark-theme-landing-page-master/fylo-dark-theme-landing-page-master/images/icon-phone.svg');
+    list-style-image: url('./images/icon-phone.svg');
 }
 .icongmail{
-    list-style-image: url('/fylo-dark-theme-landing-page-master/fylo-dark-theme-landing-page-master/images/icon-email.svg');
+    list-style-image: url('./images/icon-email.svg');
 }
 .list5 ul{
 display: inline-block;
